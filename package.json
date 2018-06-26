@@ -1,0 +1,22 @@
+{
+    "name": "gtlovell",
+    "displayName": "gtlovell",
+    "description": "Garrett's super cool theme!",
+    "version": "0.0.1",
+    "publisher": "test",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Garrett Lovell",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Garrett Lovell-color-theme.json"
+            }
+        ]
+    }
+}
